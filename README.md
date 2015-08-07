@@ -1,3 +1,13 @@
+##"R Programming" Course Project 2 Submission
+
+####Assignment Answer:
+
+The R script named cachematrix.R fulfils the project criteria.
+
+Below is a copy of the original README file, from the original repo, where information on the course assignment and its requirements is detailed.
+
+####The Original README File:
+
 ### Introduction
 
 This second programming assignment will require you to write an R
